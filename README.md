@@ -11,3 +11,35 @@ Copiamos el link del repo para el clone
 2. ![](steps/step2.jpg) 
 
 Hacemos el clone
+
+3. ![](steps/step3.jpg) 
+
+Hacemos pull para traer todos los cambios
+
+4. ![](steps/step4.jpg) 
+
+Hacemos cambios (añadimos archivos) y hacemos git add
+
+5. ![](steps/step5.jpg) 
+
+Hacemos commit
+
+6. ![](steps/step6.jpg) 
+
+Hacemos push. Y repetimos del paso 4 al 6 unas 5 veces
+
+7. ![](steps/step6before4.jpg) 
+
+Hacemos este tipo de push (no el del paso 6) SÓLO la primera vez que hacemos push y no está nuestra rama en el repo remoto
+
+7. ![](steps/step7.jpg) 
+
+Abrimos una pull request con un mensaje.
+
+8. ![](steps/step8.jpg) 
+
+Hacemos merge de la pull request
+
+9. ![](steps/step9.jpg) 
+
+Mergeamos con un mensaje y damos a Confirm merge
