@@ -4,6 +4,9 @@ Tarea 5. Shared repository. Trabajando con Ramas
 
 ## Tarea 5
 
+### Enlace al vídeo explicativo: 
+[Video tutorial](https://youtu.be/83IuqFAIWPg)
+
 1. ![](steps/step1.jpg) 
 
 Copiamos el link del repo para el clone
