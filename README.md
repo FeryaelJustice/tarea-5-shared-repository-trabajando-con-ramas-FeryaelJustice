@@ -7,6 +7,9 @@ Tarea 5. Shared repository. Trabajando con Ramas
 ### Enlace al vídeo explicativo: 
 [Video tutorial](https://youtu.be/83IuqFAIWPg)
 
+### Enlace al repostorio grupal:
+[Repositorio grupal](https://github.com/cifpfbmoll/hello-world-group.git)
+
 1. ![](steps/step1.jpg) 
 
 Copiamos el link del repo para el clone
